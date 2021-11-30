@@ -25,5 +25,12 @@
 
 /* Colors*/
 
-
-
+:root {
+  --bs-primary: #003B53;
+  --bs-info: #42AEC8;
+  --bs-warning: #FFC237;
+  --bs-primary-rgb: 0, 59, 83;
+  --bs-info-rgb: 66, 174, 200;
+  --bs-dark: #000000;
+  --bs-dark-rgb: 0, 0, 0;
+}
