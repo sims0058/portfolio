@@ -1,8 +1,5 @@
 /* Nav Underline */
 
-.nav-link {
-  position: relative;
-}
 
 .nav-link:hover {
   color: #ffffff;
@@ -33,6 +30,8 @@
   --bs-info-rgb: 66, 174, 200;
   --bs-dark: #000000;
   --bs-dark-rgb: 0, 0, 0;
+  --bs-danger:#D5643B;
+  --bs-danger-rgb: 213, 100, 59;
 }
 
 a {
@@ -42,3 +41,11 @@ a {
  a:hover{
   transform: scale(0.90);
  }
+
+/* About Orange Shape*/
+ .banner-about {
+  background: var(--bs-dark) url(../images/orangeshape-01.png) no-repeat center;
+  background-size: cover;
+}
+
+ 
