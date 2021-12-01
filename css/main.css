@@ -48,4 +48,13 @@ a {
   background-size: cover;
 }
 
- 
+/* Contact Form*/
+.contact-clean form {
+  max-width: 500px;
+  border: 1px solid white;
+  width: 90%;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1)
+}
