@@ -46,6 +46,7 @@ a {
  .banner-about {
   background: var(--bs-dark) url(../images/orangeshape-01.png) no-repeat center;
   background-size: cover;
+  
 }
 
 /* Contact Form*/
